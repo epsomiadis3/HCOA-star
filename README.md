@@ -54,7 +54,7 @@ This will generate data for training semantic predictors:
 
     python -m Semantic_Predictor.create_dataset
 
-Outputs are saved in `HCOAStar/Semantic_Predictor/data`.
+Outputs are saved in `Semantic_Predictor/data`.
 
 Step 4: Train Predictive Models
 -------------------------------
