@@ -1,7 +1,7 @@
-HCOA*: Hierarchical Class-Ordered A* for Navigation in Semantic Environments
+HCOA*: Hierarchical Class-ordered A* for Navigation in Semantic Environments
 =============================================================================
 
-This repository contains the Python implementation of Hierarchical Class-Ordered A* (HCOA*), as presented in the following paper:
+This repository contains the Python implementation of Hierarchical Class-ordered A* (HCOA*), as presented in the following paper:
 
 HCOA*: Hierarchical Class-Ordered A* for Navigation in Semantic Environments  
 Evangelos Psomiadis and Panagiotis Tsiotras  
