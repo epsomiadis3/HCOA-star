@@ -1,0 +1,4 @@
+graph_info_path: dsg_processor/data/graph_info.pkl
+dsg_json_path: dsg_processor/data/dsg_with_mesh_subway.json
+graph_partitions: Semantic_Predictor/data/uhumans2_graph_partitions.pkl
+dataset_labeled: Semantic_Predictor/data/uhumans2_rooms_labeled

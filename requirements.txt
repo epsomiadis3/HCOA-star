@@ -1,0 +1,10 @@
+numpy==1.24.2
+matplotlib==3.5.1
+pyyaml
+torch
+torch-geometric
+tqdm
+pandas
+scikit-learn==1.3.2
+networkx==3.2.1
+
