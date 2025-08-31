@@ -83,7 +83,7 @@ If you find this work useful, please consider citing:
   year={2025},
   volume={10},
   number={10},
-  pages={10282-10289},
+  pages={10282-10289}
 }
 
 ------------------------------------------------------------------------------
