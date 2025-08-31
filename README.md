@@ -80,9 +80,10 @@ If you find this work useful, please consider citing:
   author    = {Evangelos Psomiadis and Panagiotis Tsiotras},
   title     = {{HCOA*}: Hierarchical Class-ordered A* for Navigation in Semantic Environments},
   journal   = {IEEE Robotics and Automation Letters (RA-L)},
-  year      = {2025},
-  month     = {August},
-  note      = {Accepted},
+  year={2025},
+  volume={10},
+  number={10},
+  pages={10282-10289},
 }
 
 ------------------------------------------------------------------------------
