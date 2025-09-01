@@ -48,7 +48,7 @@ From the project root directory, run:
     python -m OfficeSim
     python -m SubwaySim
 
-Step 3: Create Training Dataset
+Create Training Dataset
 -------------------------------
 This will generate data for training semantic predictors:
 
@@ -56,7 +56,7 @@ This will generate data for training semantic predictors:
 
 Outputs are saved in `Semantic_Predictor/data`.
 
-Step 4: Train Predictive Models
+Train Predictive Models
 -------------------------------
 This trains the GNN and kNN models and compares them to baseline methods:
 
