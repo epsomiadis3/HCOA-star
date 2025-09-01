@@ -5,8 +5,8 @@ This repository contains the Python implementation of Hierarchical Class-ordered
 
 HCOA*: Hierarchical Class-Ordered A* for Navigation in Semantic Environments  
 Evangelos Psomiadis and Panagiotis Tsiotras  
-IEEE Robotics and Automation Letters (RA-L), Accepted August 3, 2025  
-https://www.arxiv.org/abs/2505.03128
+IEEE Robotics and Automation Letters (RA-L), vol. 10, no. 10, pp. 10282-10289, Oct. 2025.
+https://ieeexplore.ieee.org/document/11122636
 
 ------------------------------------------------------------------------------
 
@@ -76,15 +76,17 @@ Citation
 ========
 If you find this work useful, please consider citing:
 
+```bibtex
 @article{Psomiadis2025HCOA,
-  author    = {Evangelos Psomiadis and Panagiotis Tsiotras},
-  title     = {{HCOA*}: Hierarchical Class-ordered A* for Navigation in Semantic Environments},
-  journal   = {IEEE Robotics and Automation Letters (RA-L)},
-  year={2025},
-  volume={10},
-  number={10},
-  pages={10282-10289}
+author = {Evangelos Psomiadis and Panagiotis Tsiotras},
+title = {{HCOA*}: Hierarchical Class-ordered A* for Navigation in Semantic Environments},
+journal = {IEEE Robotics and Automation Letters (RA-L)},
+year = {2025},
+volume = {10},
+number = {10},
+pages = {10282-10289}
 }
+```
 
 ------------------------------------------------------------------------------
 
